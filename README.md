@@ -48,7 +48,7 @@ python src/main.py
 5. Los datos procesados se guardarán en data/processed/ y las figuras en reports/figures/
 
 ## Autor: Carlos Pineda Zermeño
-- GitHub: Carlos-PZ
+- GitHub: [Carlos-PZ](https://github.com/Carlos-PZ)
 - LinkedIn: https://www.linkedin.com/in/carlos-pz/
 - Kaggle: https://www.kaggle.com/carlospinedaz
 
