@@ -1,7 +1,7 @@
-# 🚀 Análisis de Datos - Clínica Veterinaria Divet
+# 🚀 Análisis de Datos - Clínica Veterinaria
 
 ## 📌 Descripción del Proyecto
-La clínica veterinaria Divet genera diariamente cientos de registros de ventas y servicios. Este proyecto tiene como objetivo construir un pipeline de datos completo (end-to-end) que transforme estos registros en información accionable. El enfoque principal es doble: (1) entender el comportamiento de compra de los clientes y las necesidades de sus mascotas, y (2) evaluar el desempeño del personal técnico para optimizar la asignación de turnos y recursos.
+La clínica veterinaria genera diariamente gran cantidad de registros de ventas y servicios. Este proyecto tiene como objetivo construir un pipeline de datos completo (end-to-end) que transforme estos registros en información accionable. El enfoque principal es doble: (1) identificar los patrones de venta de los servicios, y (2) evaluar el desempeño del personal técnico para optimizar la asignación de turnos y recursos.
 
 ## 🎯 Objetivos del Proyecto
 - **Objetivo 1:** Realizar un análisis exploratorio de datos (EDA) para identificar:
